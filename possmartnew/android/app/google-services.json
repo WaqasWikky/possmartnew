@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127085100327",
+    "project_id": "possmartnew",
+    "storage_bucket": "possmartnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127085100327:android:5c082e932b68e047d3bd02",
+        "android_client_info": {
+          "package_name": "com.example.possmartnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127085100327-cgf9pvv037m066t59dltnv01jggddjgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Zs-6Jno_8xQjhAE1jLDrNSJDMqk7v4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127085100327-cgf9pvv037m066t59dltnv01jggddjgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
